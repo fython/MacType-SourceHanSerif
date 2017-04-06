@@ -2,6 +2,8 @@
 
 > Only for Windows users
 
+[中文说明](./README-CN.md)
+
 ## What is this?
 
 Use Source Han Serif as system fonts for better display effect.
