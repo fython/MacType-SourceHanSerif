@@ -1,6 +1,8 @@
-# Source Han Serif MacType 配置文件
+# 思源宋体 MacType 配置文件
 
 > 仅提供 Windows 用户
+
+#### 注意: 在近期的 Windows 10 创作者更新中 (1703), MacType 可能导致一些严重的问题。
 
 ## 这是什么?
 
