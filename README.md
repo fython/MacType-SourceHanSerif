@@ -4,7 +4,7 @@
 
 [中文说明](./README-CN.md)
 
-#### Caution: In recent Windows 10 Creators Update (1703), MacType may cause some serious problems.
+#### Recommend Windows 10 Creators Update (1703) users to read this post (Untranslated chinese): [https://feng.moe/archives/15/](https://feng.moe/archives/15/)
 
 ## What is this?
 
