@@ -2,7 +2,7 @@
 
 > 仅提供 Windows 用户
 
-#### 注意: 在近期的 Windows 10 创作者更新中 (1703), MacType 可能导致一些严重的问题。
+#### Windows 10 创作者更新 (1703) 使用可以看看这篇博客： [https://feng.moe/archives/15/](https://feng.moe/archives/15/)
 
 ## 这是什么?
 
